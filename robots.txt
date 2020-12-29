@@ -1,0 +1,12 @@
+# Group 1
+User-agent: *
+Disallow: /css/
+Disallow: /img/
+Disallow: /js/
+Disallow: /lib/
+
+# Group 2
+User-agent: *
+Allow: /
+
+Sitemap: https://abromexconsult.com/sitemap.xml
