@@ -1,7 +1,5 @@
 window.addEventListener('DOMContentLoaded', function () {
-	// initalise emailjs
 	emailjs.init('user_vFzVbBbC9qb1s6NjeylEl');
-	console.log('emailjs initialised!');
 
 	var form = document.querySelector('form');
 	var submitBtn = document.querySelector('button#btn');
